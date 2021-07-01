@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\bin\RestaurantManagementSystem.dll.config
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\bin\RestaurantManagementSystem.dll
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\bin\RestaurantManagementSystem.pdb
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\obj\Release\RestaurantManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\obj\Release\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\obj\Release\RestaurantManagementSystem.dll
+C:\Users\PC\Downloads\RMS\RestaurantManagementSystem\RestaurantManagementSystem\obj\Release\RestaurantManagementSystem.pdb
